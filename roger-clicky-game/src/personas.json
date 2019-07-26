@@ -2,126 +2,151 @@
     {
         "id": 1,
         "name": "Scotch Bingington",
-        "image": ""
+        "image": "",
+        "role": "King of Spring Break"
     },
     {
         "id": 2,
         "name": "Braf Zachland",
-        "image": ""
+        "image": "",
+        "role": "Detective, Predecessor to The Legman"
     },
     {
         "id": 3,
         "name": "Tearjerker",
-        "image": ""
+        "image": "",
+        "role": "Villianous Filmmaker"
     },
     {
         "id": 4,
         "name": "Horse Renoir",
-        "image": ""
+        "image": "",
+        "role": "Bounty Hunter"
     },
     {
         "id": 5,
         "name": "Roy Rogers McFreely",
-        "image": ""
+        "image": "",
+        "role": "Chairman of the Homeowner's Association"
     },
     {
         "id": 6,
         "name": "Chex LeMeneaux",
-        "image": ""
+        "image": "",
+        "role": "Enforcer for the 1980 Gold Medal U.S. Olympic Hockey Team"
     },
     {
         "id": 7,
         "name": "Ricky Spanish",
-        "image": ""
+        "image": "",
+        "role": "Just The Worst"
     },
     {
         "id": 8,
         "name": "Greater Chimdale County Man",
-        "image": ""
+        "image": "",
+        "role": "Mediocre Super Hero"
     },
     {
         "id": 9,
         "name": "Jenny Fromdabloc",
-        "image": ""
+        "image": "",
+        "role": "Teenage Love Interest of Snot Lonstein"
     },
     {
         "id": 10,
         "name": "Genevieve Vavance",
-        "image": ""
+        "image": "",
+        "role": "News Anchor"
     },
     {
         "id": 11,
         "name": "Kevin Ramage",
-        "image": ""
+        "image": "",
+        "role": "Fake ID Dealer"
     },
     {
         "id": 12,
         "name": "Dr. Penguin",
-        "image": ""
+        "image": "",
+        "role": "Pretend Psychiatrist"
     },
     {
         "id": 13,
         "name": "Jeannie Gold",
-        "image": ""
+        "image": "",
+        "role": "Wedding Planner Extraordinaire"
     },
     {
         "id": 14,
         "name": "Ruby Zeldastein",
-        "image": ""
+        "image": "",
+        "role": "Psychic Medium"
     },
     {
         "id": 15,
         "name": "The Legman",
-        "image": ""
+        "image": "",
+        "role": "Detective, Successor to Braf Zachland"
     },
     {
         "id": 16,
         "name": "Cleshawn Montague",
-        "image": ""
+        "image": "",
+        "role": "Ingenue, Actor"
     },
     {
         "id": 17,
         "name": "Dan Ansom Handsome",
-        "image": ""
+        "image": "",
+        "role": "Charming and Irresistable Ladies Man"
     },
     {
         "id": 18,
         "name": "Dom Fikowski",
-        "image": ""
+        "image": "",
+        "role": "The Asphalt King"
     },
     {
         "id": 19,
         "name": "Sholanda Dykes",
-        "image": ""
+        "image": "",
+        "role": "AT&T Operator"
     },
     {
         "id": 20,
         "name": "Roger",
-        "image": ""
+        "image": "",
+        "role": "Alien"
     },
     {
         "id": 21,
         "name": "Stan Smith",
-        "image": ""
+        "image": "",
+        "role": "American Dad, CIA Operative"
     },
     {
         "id": 22,
         "name": "Francine Smith",
-        "image": ""
+        "image": "",
+        "role": "Wife, Mother"
     },
     {
         "id": 23,
         "name": "Hayley Smith",
-        "image": ""
+        "image": "",
+        "role": "Daughter, Hippie"
     },
     {
         "id": 24,
         "name": "Steve Smith",
-        "image": ""
+        "image": "",
+        "role": "Son, Nerd"
     },
     {
         "id": 25,
         "name": "Klaus Heisler",
-        "image": ""
+        "image": "",
+        "role": "Fish"
     }
 ]
