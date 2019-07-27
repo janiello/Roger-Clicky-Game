@@ -1,152 +1,152 @@
 [
     {
         "id": 1,
-        "name": "Scotch Bingington",
-        "image": "",
-        "role": "King of Spring Break"
+        "name": "Tasha Flunchen",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/f/f8/Shellgaamedisguise.png/revision/latest/scale-to-width-down/175?cb=20180227043853",
+        "role": "Washed-Up Super Model"
     },
     {
         "id": 2,
-        "name": "Braf Zachland",
-        "image": "",
-        "role": "Detective, Predecessor to The Legman"
+        "name": "Donald",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/7/76/Lapelpindisguise.png/revision/latest/scale-to-width-down/175?cb=20160308023142",
+        "role": "Hipster"
     },
     {
         "id": 3,
         "name": "Tearjerker",
-        "image": "",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/a/a5/ADRogersDisguiseAnIncidentatOwlCreek.jpg/revision/latest/scale-to-width-down/175?cb=20100510231014",
         "role": "Villianous Filmmaker"
     },
     {
         "id": 4,
         "name": "Horse Renoir",
-        "image": "",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/c/c7/Fartbreakhoteldisguise.png/revision/latest/scale-to-width-down/175?cb=20110117221056",
         "role": "Bounty Hunter"
     },
     {
         "id": 5,
         "name": "Roy Rogers McFreely",
-        "image": "",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/4/4f/Walrusdisguise.png/revision/latest/scale-to-width-down/175?cb=20110405133345",
         "role": "Chairman of the Homeowner's Association"
     },
     {
         "id": 6,
-        "name": "Chex LeMeneaux",
-        "image": "",
+        "name": "Chex Lemeneux",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/a/ab/LicensetoTilldisguise.jpg/revision/latest/scale-to-width-down/175?cb=20110412013752",
         "role": "Enforcer for the 1980 Gold Medal U.S. Olympic Hockey Team"
     },
     {
         "id": 7,
         "name": "Ricky Spanish",
-        "image": "",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/a/a5/Holodeckdisguise.png/revision/latest/scale-to-width-down/175?cb=20140324003130",
         "role": "Just The Worst"
     },
     {
         "id": 8,
         "name": "Greater Chimdale County Man",
-        "image": "",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/9/97/Pilldisguise.png/revision/latest/scale-to-width-down/175?cb=20140331014656",
         "role": "Mediocre Super Hero"
     },
     {
         "id": 9,
         "name": "Jenny Fromdabloc",
-        "image": "",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/7/7f/Michaeldisguise.png/revision/latest/scale-to-width-down/175?cb=20140915025449",
         "role": "Teenage Love Interest of Snot Lonstein"
     },
     {
         "id": 10,
         "name": "Genevieve Vavance",
-        "image": "",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/d/db/Standandeliverdisguise.png/revision/latest/scale-to-width-down/175?cb=20160315014115",
         "role": "News Anchor"
     },
     {
         "id": 11,
         "name": "Kevin Ramage",
-        "image": "",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/4/4d/Daesong1disguise.png/revision/latest/scale-to-width-down/175?cb=20160510014120",
         "role": "Fake ID Dealer"
     },
     {
         "id": 12,
-        "name": "Dr. Penguin",
-        "image": "",
-        "role": "Pretend Psychiatrist"
+        "name": "Braf Zachland",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/d/d1/ADRogersDisguiseReturnOfBling.jpg/revision/latest/scale-to-width-down/175?cb=20100222134706",
+        "role": "Paralyzed Detective with Nonsense Background Story"
     },
     {
         "id": 13,
-        "name": "Jeannie Gold",
-        "image": "",
-        "role": "Wedding Planner Extraordinaire"
+        "name": "Phantom of the Telethon",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/a/a0/ADRogersDisguiseBrainsBrians.jpg/revision/latest/scale-to-width-down/175?cb=20091019133431",
+        "role": "Vindictive Saboteur"
     },
     {
         "id": 14,
         "name": "Ruby Zeldastein",
-        "image": "",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/c/c3/DaesongIIdisguise.png/revision/latest/scale-to-width-down/175?cb=20160517013010",
         "role": "Psychic Medium"
     },
     {
         "id": 15,
-        "name": "The Legman",
-        "image": "",
-        "role": "Detective, Successor to Braf Zachland"
+        "name": "Krispy Kreme McDonald",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/c/c6/ADRogerDisguiseFamilyAffair.jpg/revision/latest/scale-to-width-down/175?cb=20090320234543",
+        "role": "Drummer"
     },
     {
         "id": 16,
         "name": "Cleshawn Montague",
-        "image": "",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/f/fc/Boringidentdisguise.png/revision/latest/scale-to-width-down/175?cb=20130422024826",
         "role": "Ingenue, Actor"
     },
     {
         "id": 17,
         "name": "Dan Ansom Handsome",
-        "image": "",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/1/19/Nowgwendisguise.png/revision/latest/scale-to-width-down/175?cb=20141118031816",
         "role": "Charming and Irresistable Ladies Man"
     },
     {
         "id": 18,
         "name": "Dom Fikowski",
-        "image": "",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/7/73/Fathersdazedisguise.png/revision/latest/scale-to-width-down/175?cb=20161108032238",
         "role": "The Asphalt King"
     },
     {
         "id": 19,
         "name": "Sholanda Dykes",
-        "image": "",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/f/fe/Holyshdisguise.png/revision/latest/scale-to-width-down/175?cb=20150519021259",
         "role": "AT&T Operator"
     },
     {
         "id": 20,
-        "name": "Roger",
-        "image": "",
-        "role": "Alien"
+        "name": "Dudley Dingleberry",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/e/eb/Fleabiscuitdisguise.png/revision/latest/scale-to-width-down/175?cb=20190402025953",
+        "role": "Murderous 'Ventriloquy' Puppet"
     },
     {
         "id": 21,
-        "name": "Stan Smith",
-        "image": "",
-        "role": "American Dad, CIA Operative"
+        "name": "Roger",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/7/78/ADRogersDisguise1600Candles.jpg/revision/latest/scale-to-width-down/175?cb=20090321151932",
+        "role": "Alien"
     },
     {
         "id": 22,
-        "name": "Francine Smith",
-        "image": "",
-        "role": "Wife, Mother"
+        "name": "Stan Smith",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/0/0d/AmericanDad_09_Stan_v1F.jpg/revision/latest?cb=20101130170500",
+        "role": "American Dad, CIA Operative"
     },
     {
         "id": 23,
-        "name": "Hayley Smith",
-        "image": "",
-        "role": "Daughter, Hippie"
+        "name": "Francine Smith",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/1/16/AmericanDad_09_Francine_v1F.jpg/revision/latest?cb=20101130170555",
+        "role": "Wife, Mother"
     },
     {
         "id": 24,
-        "name": "Steve Smith",
-        "image": "",
-        "role": "Son, Nerd"
+        "name": "Hayley Smith",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/b/b6/Gal_hayley.jpg/revision/latest?cb=20121108030428",
+        "role": "Daughter, Hippie"
     },
     {
         "id": 25,
-        "name": "Klaus Heisler",
-        "image": "",
-        "role": "Fish"
+        "name": "Steve Smith",
+        "image": "https://vignette.wikia.nocookie.net/americandad/images/1/17/AmericanDad_09_Steve_v1F.jpg/revision/latest?cb=20120410225346",
+        "role": "Son, Nerd"
     }
 ]

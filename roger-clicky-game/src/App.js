@@ -1,5 +1,6 @@
 import React, {Component} from "react";
-import Roger from "./components/roger";
+import Roger from "./components/Roger-Cards/roger";
+import Wrapper from "./components/Wrapper/wrapper.js"
 import personas from "./personas.json";
 
 class App extends Component {
@@ -9,7 +10,7 @@ class App extends Component {
 
   render() {
     return(
-      <div>
+      <Wrapper>
         {this.state.personas.map(persona => (
           <Roger
             id={persona.id}
@@ -19,7 +20,7 @@ class App extends Component {
             role={persona.role}
           />
         ))}
-      </div>
+      </Wrapper>
     );
   }
 }
